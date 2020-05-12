@@ -4,7 +4,7 @@ public class Post {
     private int id;
     private int ownerId;
     private int fromId;
-    private int CreatedBy;
+    private int createdBy;
     private int date;
     private String text;
     private int replyOwnerId;
